@@ -1,0 +1,2 @@
+# Pyxel-SYM
+Soluciones Informaticas
